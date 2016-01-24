@@ -1,0 +1,12 @@
+Level:
+5
+MaxHitPoint:
+1234
+AttackPower:
+30
+Block: 15
+CriticalChance: 0
+CriticalPower: 0
+AbilityHave: 2
+1 5
+3 4

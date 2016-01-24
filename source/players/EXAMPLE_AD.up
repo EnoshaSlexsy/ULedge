@@ -1,0 +1,6 @@
+Level: 1
+MaxHitPoint: 100
+AttackPower: 10
+Block: 1
+CriticalChance: 0
+CriticalPower: 0
